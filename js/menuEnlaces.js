@@ -1,7 +1,7 @@
 const enlaces = [
     { nombre: 'Mi perfil profesional de LinkedIn', url: 'https://www.linkedin.com/in/cristian-fernandez-moreno/' },
     { nombre: 'Mis proyectos de GitHub', url: 'https://github.com/HaansDev' },
-    { nombre: 'Porfolio', url: 'javascript:void(0);', desactivado: true },
+    { nombre: 'Portfolio', url: 'javascript:void(0);', desactivado: true },
 ];
 
 const list = document.getElementById('links');
