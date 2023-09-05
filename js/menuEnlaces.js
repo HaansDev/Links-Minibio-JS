@@ -1,3 +1,5 @@
+'use strict'
+
 const enlaces = [
     { nombre: 'Mi perfil profesional de LinkedIn', url: 'https://www.linkedin.com/in/cristian-fernandez-moreno/' },
     { nombre: 'Mis proyectos de GitHub', url: 'https://github.com/HaansDev' },
