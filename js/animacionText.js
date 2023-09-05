@@ -1,3 +1,5 @@
+'use strict'
+
 const nameElement = document.getElementById('name');
 
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
