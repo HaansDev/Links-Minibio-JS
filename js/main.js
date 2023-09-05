@@ -1,3 +1,5 @@
+'use strict'
+
 import { startTexto } from './animacionText.js';
 import { loadEnlaces } from './menuEnlaces.js';
 
